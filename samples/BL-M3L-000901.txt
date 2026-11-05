@@ -1,0 +1,18 @@
+*** SYNTHETIC SAMPLE — generated for XRPL testnet prototype only. Not a real document. ***
+
+NEGOTIABLE MARINE BILL OF LADING (sample)
+B/L No:            M3L-000901
+Shipper:           SAMPLE JAPAN MOTORS K.K., Yokohama (synthetic)
+Consignee:         TO ORDER OF SAMPLE EAST AFRICA MOTORS LTD (synthetic)
+Notify party:      SAME AS CONSIGNEE
+Vessel / voyage:   MV TESTNET PIONEER / V.000T
+Port of loading:   YOKOHAMA, JAPAN
+Port of discharge: MOMBASA, KENYA
+Marks & nos:       SAM-001 / SAM-002
+Description:       2 UNITS USED PASSENGER CARS (synthetic units)
+                   CHASSIS NO. TESTZZZ0000000001 (2000cc, petrol)
+                   CHASSIS NO. TESTZZZ0000000002 (1800cc, petrol)
+Freight:           AS ARRANGED
+Issued by:         SAMPLE NVOCC LOGISTICS CO., LTD. (synthetic)
+Place / date:      YOKOHAMA / 2026-11-05
+No. of originals:  THREE (3)

@@ -1,0 +1,16 @@
+*** SYNTHETIC SAMPLE — generated for XRPL testnet prototype only. Not a real document. ***
+
+COMMERCIAL INVOICE (C/I) — sample
+Invoice No:        CI-8842
+Date:              2026-11-05
+Seller:            SAMPLE JAPAN MOTORS K.K., Yokohama (synthetic)
+Buyer:             SAMPLE EAST AFRICA MOTORS LTD, Mombasa (synthetic)
+Contract/order:    ORDER-TF-TEST-0001 (synthetic order id)
+Items:             2 x USED PASSENGER CARS (synthetic units)
+                   TESTZZZ0000000001 — USD 6,000 (sample)
+                   TESTZZZ0000000002 — USD 5,000 (sample)
+Total CIF Mombasa: USD 11,000 (sample figure)
+Deposit (20%):     USD 2,200 (sample)
+Balance due:       USD 8,800 after B/L + E/D approval and C/I confirmation
+Payment terms:     Document-gated escrow — balance released only after ops
+                   approval of B/L and E/D and seller confirmation of this C/I
